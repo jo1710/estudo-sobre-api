@@ -34,14 +34,4 @@ app.listen(3000)
 /* 
     criação de API de usuarios
 
-
-*/
-
-/* 
-    criação banco de dados mongo db
-    usuario: josuerocha_db
-    senha: Josueroch@201711
-
-    mongodb+srv://josuerocha_db:Josueroch@201711@josue.uoijyy5.mongodb.net/?appName=josue
-
 */
